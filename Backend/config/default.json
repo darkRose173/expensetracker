@@ -1,0 +1,5 @@
+{
+    "PORT":5000,
+    "URL":"http://localhost:5000",
+    "DB_STRING": "mongodb+srv://nihalraghuraj:jWVkhj1Xbn2dlqPV@cluster0.5stanh9.mongodb.net/?retryWrites=true&w=majority"
+}
